@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "face/face": "dev-master",
+        "face/face": "dev-face-orm",
         "peek/peek": "dev-master",
         "phpunit/PHPUnit": "3.7.*"
     },
